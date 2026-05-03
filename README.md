@@ -4,7 +4,7 @@ Junior developer from Argentina passionate about building user-focused applicati
 
 ## 🚀 What I'm working on
 - 🎓 Finishing my degree in Software Development 
-- 💼 Currently interning on an *accessibility platform* serving real users 
+- 💼 Currently interning on an *accessibility platform* serving real users [CAADi](https://caadi.vercel.app/)
 - 🧪 Building personal projects to strengthen my skills
 
 ## 💻 Tech Stack
