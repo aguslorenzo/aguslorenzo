@@ -1,6 +1,7 @@
 ## Hi, I'm Agustina 👋
 
 Junior developer from Argentina passionate about building user-focused applications.
+
 🔍 *Open to opportunities* - Currently seeking my first job.
 
 ## 🚀 What I'm working on
