@@ -10,9 +10,9 @@ Junior developer from Argentina passionate about building user-focused applicati
 - 🧪 Building personal projects to strengthen my skills
 
 ## 💻 Tech Stack
-Frontend: React • JavaScript • HTML/CSS 
-Backend: Java • Spring Boot • REST APIs • SQL
-Databases: Supabase • PostgreSQL • H2
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,js,html,css)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,api)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,supabase)
 
 ## 📬 Let's connect
 - [LinkedIn](http://linkedin.com/in/agustina-lorenzo)
