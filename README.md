@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Agustina 👋
 
-<!--
-**aguslorenzo/aguslorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior developer from Argentina passionate about building user-focused applications.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- 🎓 Finishing my degree in Software Development 
+- 💼 Currently interning on an *accessibility platform* serving real users 
+- 🧪 Building personal projects to strengthen my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+Frontend: React • JavaScript • HTML/CSS 
+Backend: Java • Spring Boot • REST APIs • SQL
+Databases: Supabase • PostgreSQL • H2
+
+## 📬 Let's connect
+- [LinkedIn](http://linkedin.com/in/agustina-lorenzo)
